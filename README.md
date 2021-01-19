@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Interested in Data Scince and Machine Learning
 I'm currently working on Deep learning in Computer Vision.
-Looking to collaborate on any projects related to above fields.
+Looking to collaborate on any projects related to these fields.
 
