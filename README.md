@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-from keras.datasets import mnist
+Interested in Data Scince and Machine Learning
+I'm currently working on Deep learning in Computer Vision.
+Looking to collaborate on any projects related to above fields.
 
-# loads the MNIST dataset
-(x_train, y_train), (x_test, y_test)  = mnist.load_data()
-
-print (x_train.shape)
